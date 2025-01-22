@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mariath!
 👩🏻‍💻 Development Assistant at Bravante Group<br/>
-👩🏻‍🎓 Studying System Analysis at Uninter<br/>
-💭 Currently learning about JavaScript<br/>
+👩🏻‍🎓 Studying System Analysis<br/>
+💭 Currently learning about React<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=mariathdev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
