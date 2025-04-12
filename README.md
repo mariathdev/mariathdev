@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Matheus Mariath!
-👩🏻‍💻 IT Technician at Bravante Group<br/>
+👩🏻‍💻 Development Assistant at Bravante Group<br/>
 👩🏻‍🎓 Studying System Analysis<br/>
 💭 Currently learning about React<br/>
 
