@@ -1,7 +1,7 @@
 ## 👋 Hey there, I’m Mariath
 
 I’m **23 years old** and work as a **Developer at Bravante**, based in Rio de Janeiro 🇧🇷.  
-My days usually involve **code, cats on the keyboard, and coffee nearby** — in that order.  
+My days usually involve **code, cats on the keyboard, and coffee nearby** in that order.  
 
 I enjoy **building useful things**, understanding how everything works under the hood,  
 and turning ideas into something that actually runs
