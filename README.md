@@ -32,7 +32,7 @@ Sunny, my cat, is my official debugging partner.
 
 <div align="center">
 
-![Mariath's GitHub stats]([https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12](https://github-readme-stats.vercel.app/api?username=mariathdev)](https://github.com/mariathdev/github-readme-stats))
+[![Mariath's GitHub stats]([https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12](https://github-readme-stats.vercel.app/api?username=mariathdev)](https://github.com/mariathdev/github-readme-stats))](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
