@@ -1,10 +1,6 @@
 ## 👋 Hey there, I’m Mariath
 
-I’m **23 years old** and work as a **Developer at Bravante**, based in Rio de Janeiro 🇧🇷.  
-My days usually involve **code, cats on the keyboard, and coffee nearby** in that order.  
-
-I enjoy **building useful things**, understanding how everything works under the hood,  
-and turning ideas into something that actually runs
+I’m **23 years old** and work as a **FullStack Developer** at Bravante, based in Rio de Janeiro 🇧🇷.
 
 ---
 
@@ -27,11 +23,8 @@ and turning ideas into something that actually runs
 
 ### 🧠 A bit about me
 
-I’ve always liked **solving problems** and understanding the *why* behind things.  
-To me, development is more than just code.. it’s logic, creativity, and a good amount of patience.  
-
-I’m a fan of **Dungeon & Dragons**, story-driven games, and any good conversation about technology.  
-Sunny the cat are my official debugging partner.
+I’m a fan of watching anime, reading manga, and, of course, writing code.
+Sunny, my cat, is my official debugging partner.
 
 ---
 
@@ -39,8 +32,7 @@ Sunny the cat are my official debugging partner.
 
 <div align="center">
 
-![Mariath's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariathdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Mariath's GitHub stats]([https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12](https://github-readme-stats.vercel.app/api?username=mariathdev)](https://github.com/mariathdev/github-readme-stats))
 
 </div>
 
