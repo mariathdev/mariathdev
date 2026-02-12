@@ -1,6 +1,6 @@
 # Hi, I'm Mariathdev
 
-Full-Stack Developer | Building scalable web solutions
+Full-Stack Developer | Rio de Janeiro, Brazil.
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariathdev)
 [![](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=ko-fi&logoColor=black)](https://mariath.dev)
