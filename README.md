@@ -2,9 +2,9 @@
 
 Full-Stack Developer | Building scalable web solutions
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=ko-fi&logoColor=black)](https://yourportfolio.com)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariathdev)
+[![](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=ko-fi&logoColor=black)](https://mariath.dev)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariath.dev@outlook.com)
 
 ---
 
@@ -40,7 +40,7 @@ Full-Stack Developer | Building scalable web solutions
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariathdev&show_icons=true&theme=neon&hide_border=true" alt="Mariathdev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=neon&hide_border=true" alt="Mariathdev's GitHub Stats" />
 </p>
 
 ---
