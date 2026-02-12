@@ -40,7 +40,9 @@ Full-Stack Developer | Rio de Janeiro, Brazil.
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=neon&hide_border=true" alt="Mariathdev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariathdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mariathdev's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariathdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
