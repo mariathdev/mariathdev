@@ -16,7 +16,7 @@ I work mainly with React and Node.js, building scalable and maintainable web app
 
 ### 🧑🏻‍💻 What I'm working on
 
-- Building **SignatureBravante**, an email signature generator
+- Building **MailSignatureGen**, an email signature generator
 - Writing **TypeScript** every day
 - Exploring **Docker** for development environments
 
