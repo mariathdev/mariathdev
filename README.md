@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Matheus Mariath 🐧
 
-<!--
-**mariathdev/mariathdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack Developer based in Rio de Janeiro, Brazil. I build web applications and keep things simple with code that’s easy to understand.
 
-Here are some ideas to get you started:
+I work mainly with React and Node.js, building scalable and maintainable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,docker" />
+</p>
+
+---
+
+### 🧑🏻‍💻 What I'm working on
+
+- Building **SignatureBravante**, an email signature generator
+- Writing **TypeScript** every day
+- Exploring **Docker** for development environments
+
+---
+
+### 📊 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mariathdev&theme=dark&hide_border=true&background=00000000&ring=6e7681&fire=6e7681&currStreakLabel=6e7681)
+
+---
+
+### 🫱🏻‍🫲🏻 Let's talk
+
+Feel free to reach out if you'd like to connect.
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariathdev/)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mariathdev/)
+
+✉️ [contato@mariath.dev](mailto:contato@mariath.dev) &nbsp;|&nbsp; ✖️ [x.com/mariathdev](https://x.com/mariathdev)
