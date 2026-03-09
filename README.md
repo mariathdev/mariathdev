@@ -1,4 +1,4 @@
-# Hey, I'm Matheus Mariath 🐧
+# Hey, I'm Matheus Mariath
 
 I’m a Full-Stack Developer based in Rio de Janeiro, Brazil. I build web applications and keep things simple with code that’s easy to understand.
 
