@@ -28,7 +28,7 @@ I work mainly with React and Node.js, building scalable and maintainable web app
 
 ---
 
-### 🫱🏻‍🫲🏻 Let's talk
+### 🔗 Let's talk
 
 Feel free to reach out if you'd like to connect.
 
