@@ -1,8 +1,8 @@
 # Hey, I'm Matheus Mariath
 
-I’m a Full-Stack Developer based in Rio de Janeiro, Brazil. I build web applications and keep things simple with code that’s easy to understand.
+I’m a Full-Stack Developer based in Rio de Janeiro, Brazil. I build web applications and keep code that’s thateasy to understand.
 
-I work mainly with React and Node.js, building scalable and maintainable web applications.
+I work mainly with React and Node.js, building web applications.
 
 ---
 
@@ -16,8 +16,8 @@ I work mainly with React and Node.js, building scalable and maintainable web app
 
 ### 🧑🏻‍💻 What I'm working on
 
-- Building **MailSignatureGen**, an email signature generator
-- Writing **TypeScript** every day
+- Building **AdPasswordReset**
+- Writing **TypeScript** almost every day
 - Exploring **Docker** for development environments
 
 ---
@@ -35,4 +35,4 @@ Feel free to reach out if you'd like to connect.
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariathdev/)&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mariathdev/)
 
-✉️ [contato@mariath.dev](mailto:contato@mariath.dev) &nbsp;|&nbsp; ✖️ [x.com/mariathdev](https://x.com/mariathdev)
+✉️ [contato@mariath.dev](mailto:contato@mariath.dev) &nbsp;|&nbsp; ✖️ [x.com/mariathdev](https://x.com/mariathdevx)
