@@ -9,7 +9,7 @@ I work mainly with React and Node.js, building web applications.
 ### 🛠️ What I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,fastapi,flask,html,css,tailwind,git,docker" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ I work mainly with React and Node.js, building web applications.
 ### 🧑🏻‍💻 What I'm working on
 
 - Building **AdPasswordReset**
-- Writing **TypeScript** almost every day
+- Writing code almost every day
 - Exploring **Docker** for development environments
 
 ---
