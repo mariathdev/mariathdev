@@ -1,6 +1,6 @@
 # Hey, I'm Matheus Mariath
 
-I’m a Full-Stack Developer based in Rio de Janeiro, Brazil. I build web applications and keep code that’s thateasy to understand.
+I’m a Full-Stack Developer based in Rio de Janeiro, Brazil. I build web applications and keep code that’s easy to understand.
 
 I work mainly with React and Node.js, building web applications.
 
@@ -16,7 +16,7 @@ I work mainly with React and Node.js, building web applications.
 
 ### 🧑🏻‍💻 What I'm working on
 
-- Building **AdPasswordReset**
+- Actually studying **CS50**
 - Writing code almost every day
 - Exploring **Docker** for development environments
 
