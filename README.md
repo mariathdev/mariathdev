@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/DY9RQek.gif" width="260"/>
+  <img src="https://i.imgur.com/DY9RQek.gif" width="480"/>
 
   # Matheus Mariath
   Full-stack dev, Rio de Janeiro.
