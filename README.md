@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/DY9RQek.gif" width="480"/>
+  <img src="https://i.imgur.com/DY9RQek.gif" width="100%" height="200"/>
 
   # Matheus Mariath
   Full-stack dev, Rio de Janeiro.
@@ -33,7 +33,7 @@ Doing CS50 right now, learning Docker, and breaking things in dev so I don't hav
 
 ## Off the clock
 
-Alice in Chains, *All I Need* by Radiohead on loop, **Monster**, **Blue Period**, and I don't miss a good UFC card.
+Alice in Chains, *All I Need* by Radiohead on loop, **Monster**, **Blue Period**, and I don't miss a UFC card.
 
 <br/>
 
