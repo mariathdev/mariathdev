@@ -1,18 +1,25 @@
 <div align="center">
-  <img src="https://i.imgur.com/DY9RQek.gif" width="100%" height="200"/>
+  <img src="https://i.imgur.com/nQbsXPk.png" width="100%"/>
 
-  # Matheus Mariath
-  Full-stack dev, Rio de Janeiro.
+  <sub><i>"Hard workers who do things they like are unstoppable."</i> (Blue Period, vol. 1)</sub>
 </div>
 
 <br/>
 
-React and Node.js by default. Python when the problem is worth it.
-Doing CS50 right now, learning Docker, and breaking things in dev so I don't have to break them in prod.
+# Matheus Mariath
+Full-stack dev, Rio de Janeiro.
+
+React and Node.js by default, Python when it fits. CS50 to shore up fundamentals, Docker so my setup isn't the variable.
 
 <br/>
 
-## Stack
+### // building
+
+**NerdLMS** is a multi-tenant learning platform, in active development under my own company, [NerdResolve](https://github.com/NerdResolve). Next.js 15 and React 19 up front, a use-case-driven backend that keeps domain logic framework-free, Postgres underneath, and whitelabel support so each install ships under its own brand and domain. Private for now, happy to walk through it in a conversation.
+
+<br/>
+
+### // stack
 
 <div align="center">
 
@@ -31,13 +38,15 @@ Doing CS50 right now, learning Docker, and breaking things in dev so I don't hav
 
 <br/>
 
-## Off the clock
+### // off the clock
 
-Alice in Chains, *All I Need* by Radiohead on loop, **Monster**, **Blue Period**, and I don't miss a UFC card.
+Favorite band: Alice in Chains. Favorite song: Radiohead's *All I Need*.
+
+Favorite anime: *Monster*, built around a children's book about a monster with no name, and no one left to call him once he finds one. Favorite manga: *Blue Period*. The quote up top is why. Weekends: training, then whatever UFC card is on.
 
 <br/>
 
-## Streak
+### // streak
 
 <div align="center">
 
@@ -47,7 +56,7 @@ Alice in Chains, *All I Need* by Radiohead on loop, **Monster**, **Blue Period**
 
 <br/>
 
-## Contact
+### // contact
 
 <div align="center">
 
